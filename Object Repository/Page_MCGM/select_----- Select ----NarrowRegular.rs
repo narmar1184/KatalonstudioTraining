@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_----- Select ----NarrowRegular</name>
+   <tag></tag>
+   <elementGuidId>ca93aaa1-70a1-433c-bbc7-841ca8bffe20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cboPlotType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cboPlotType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e83e09cc-0f80-404a-a8c5-3bbb69ad7e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cboPlotType</value>
+      <webElementGuid>847a3630-cabd-4a3d-b5a3-1a582121edfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cboPlotType</value>
+      <webElementGuid>2ed32588-ba69-4dc8-8f44-38494aa0b5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2e753231-e9d6-4221-9838-335b001fbbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	----- Select ----
+	Narrow
+	Regular
+
+</value>
+      <webElementGuid>33747b8f-5bc4-4832-a357-5dcb3c81e61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboPlotType&quot;)</value>
+      <webElementGuid>a318ec29-e85c-4eb8-b2c9-aabf45509815</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cboPlotType']</value>
+      <webElementGuid>46a46736-5771-4d6b-be88-712ffab4fb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div[2]/div/div[13]/div/select</value>
+      <webElementGuid>5defb07c-591e-4d05-81a4-37529fd0c5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plot Type'])[1]/following::select[1]</value>
+      <webElementGuid>ba5c2106-1df0-4ac1-aa1f-f48bf725d042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plot Abutting Details:'])[1]/following::select[1]</value>
+      <webElementGuid>054e126b-1ea7-49a5-989f-a271834076fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::select[1]</value>
+      <webElementGuid>c604b02a-e15f-4bec-b013-7009b282524e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/select</value>
+      <webElementGuid>93b56378-4bb7-4e1e-986e-2241eec09cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'cboPlotType' and @id = 'cboPlotType' and (text() = '
+	----- Select ----
+	Narrow
+	Regular
+
+' or . = '
+	----- Select ----
+	Narrow
+	Regular
+
+')]</value>
+      <webElementGuid>d580f2e1-0a43-460e-a701-2bf2b6a9b54c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

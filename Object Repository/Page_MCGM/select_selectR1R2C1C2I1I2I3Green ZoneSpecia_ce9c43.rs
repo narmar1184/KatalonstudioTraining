@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_selectR1R2C1C2I1I2I3Green ZoneSpecia_ce9c43</name>
+   <tag></tag>
+   <elementGuidId>5fe814d0-33bd-449d-8692-3cc5a595bbf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Addbuilding_cobZone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Addbuilding_cobZone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>738de83b-180d-4847-ad40-4adcb2797534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Addbuilding$cobZone</value>
+      <webElementGuid>54d02dea-ee98-4f03-9e4b-b74d3eff1ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Addbuilding_cobZone</value>
+      <webElementGuid>e6ee1882-4494-47a7-8d5a-2ebc95e24dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>3e2450bc-3902-40e4-a7ae-39b47e329c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			select
+			R1
+			R2
+			C1
+			C2
+			I1
+			I2
+			I3
+			Green Zone
+			Special Reservation
+			Gunthewari
+
+		</value>
+      <webElementGuid>8ac8d0ec-c1d5-4321-a065-0d1205f1ece7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Addbuilding_cobZone&quot;)</value>
+      <webElementGuid>dd2638c8-454a-486b-8680-24efa1b4ad65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Addbuilding_cobZone']</value>
+      <webElementGuid>7948d825-b2cf-49bb-9b36-3c222944ec2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Addbuilding_div_AddBuilding']/div/div/div/div[2]/select</value>
+      <webElementGuid>8ac7aea3-9c38-4278-bfff-1be15517cfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>6f7e1787-b1c7-4c13-a1d9-3e7340d6d233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'Addbuilding$cobZone' and @id = 'Addbuilding_cobZone' and (text() = '
+			select
+			R1
+			R2
+			C1
+			C2
+			I1
+			I2
+			I3
+			Green Zone
+			Special Reservation
+			Gunthewari
+
+		' or . = '
+			select
+			R1
+			R2
+			C1
+			C2
+			I1
+			I2
+			I3
+			Green Zone
+			Special Reservation
+			Gunthewari
+
+		')]</value>
+      <webElementGuid>742f2e4b-8533-4aa8-a209-bd28ff811431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

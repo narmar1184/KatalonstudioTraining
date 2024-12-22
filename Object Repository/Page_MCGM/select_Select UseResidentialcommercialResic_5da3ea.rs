@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select UseResidentialcommercialResic_5da3ea</name>
+   <tag></tag>
+   <elementGuidId>a91d4583-ed6a-4d75-934c-e052fc66f81b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Addbuilding_cboUse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Addbuilding_cboUse']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5a6dd357-7ac5-4853-9bad-438b26b2ae2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Addbuilding$cboUse</value>
+      <webElementGuid>10e47d51-3cea-4eb1-a76a-4d3418d77efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'Addbuilding$cboUse\',\'\')', 0)</value>
+      <webElementGuid>3fc05ea8-41a6-4331-a358-5026fc84dd37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Addbuilding_cboUse</value>
+      <webElementGuid>ef98144a-9245-46fa-b2cc-428fe40c2708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2c48347c-3954-45bd-a754-02702c3366d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Select Use
+			Residential
+			commercial
+			Resi+comm
+			Industrial
+			Educational
+			Assembly
+			Institutional
+			Merchantile
+			govt/semi-public/pvt.Business
+			Utility/services
+			Storage
+			Accomodation Reservation
+
+		</value>
+      <webElementGuid>135a28e8-1d1a-482f-88d6-c3bc75e12e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Addbuilding_cboUse&quot;)</value>
+      <webElementGuid>ad629556-3d4d-442e-95ae-60c98d6c9f79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Addbuilding_cboUse']</value>
+      <webElementGuid>4041b473-b714-43ca-9a0a-8abb97985497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Addbuilding_div_AddBuilding']/div/div[2]/div/div/select</value>
+      <webElementGuid>235c03a9-74a1-4f21-9f46-c09f24685404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>c555f2b0-7640-4562-886d-efeaed9b63eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'Addbuilding$cboUse' and @id = 'Addbuilding_cboUse' and (text() = '
+			Select Use
+			Residential
+			commercial
+			Resi+comm
+			Industrial
+			Educational
+			Assembly
+			Institutional
+			Merchantile
+			govt/semi-public/pvt.Business
+			Utility/services
+			Storage
+			Accomodation Reservation
+
+		' or . = '
+			Select Use
+			Residential
+			commercial
+			Resi+comm
+			Industrial
+			Educational
+			Assembly
+			Institutional
+			Merchantile
+			govt/semi-public/pvt.Business
+			Utility/services
+			Storage
+			Accomodation Reservation
+
+		')]</value>
+      <webElementGuid>ee86b9d5-bee6-466c-90ce-9c281fab9775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

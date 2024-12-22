@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applicant Details</name>
+   <tag></tag>
+   <elementGuidId>84a63cd0-294a-4b2e-a8a4-393dccf1c2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav_item_4 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav_item_4']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbde5dff-e0b9-441a-b252-e45f2f98b3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/BPAMSCLIENT2/Pages/Applicant_details.aspx</value>
+      <webElementGuid>71d74f06-ffdd-4ea7-ae97-7db2f6d4e5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant Details</value>
+      <webElementGuid>12965253-4898-4c54-b8f7-39e6e1b29570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_item_4&quot;)/a[1]</value>
+      <webElementGuid>856b8253-14ba-4c84-80fe-8bd1c9e8f103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav_item_4']/a</value>
+      <webElementGuid>6c05c91d-d154-4c27-b90f-012f6e75fdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Applicant Details')]</value>
+      <webElementGuid>125abfd0-960a-4227-be6e-598514566b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Details'])[1]/following::a[1]</value>
+      <webElementGuid>cb6e2052-9e1f-4769-a8ea-9dfe22085a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREATE PROJECT'])[1]/following::a[2]</value>
+      <webElementGuid>58e7b8ab-196d-48e9-a5d8-9a7f9e16df98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>cf5fece5-bde7-41c2-a5b9-1ccbe44c6e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Details'])[1]/preceding::a[2]</value>
+      <webElementGuid>c536754d-2ef0-4f39-bdd3-04b7e48cfc0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Applicant Details']/parent::*</value>
+      <webElementGuid>d0022877-9b8c-43e7-8b89-c21d9db51be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/BPAMSCLIENT2/Pages/Applicant_details.aspx')]</value>
+      <webElementGuid>e8f32095-06d4-45b1-b83a-0759a015db10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]/a</value>
+      <webElementGuid>7308102b-8f54-43e6-ac11-b0b589a277b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/BPAMSCLIENT2/Pages/Applicant_details.aspx' and (text() = 'Applicant Details' or . = 'Applicant Details')]</value>
+      <webElementGuid>5c6d12a0-5ca7-4456-a62b-e3022fc48724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

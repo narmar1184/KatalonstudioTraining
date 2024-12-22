@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2</name>
+   <tag></tag>
+   <elementGuidId>b4d48166-d9f3-4ac3-baef-5e53cda36e3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DocGrid']/tbody/tr[2]/td[2]/div/div/table/tbody/tr[4]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1949a926-e3a3-4592-8422-87f965758513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>Center</value>
+      <webElementGuid>64a298cd-3dae-44a8-a3c3-c6796e486743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> GOClassReadOnly GOAlignCenter GOIcon GOCell GOIconCenter GOEmpty HideCol0ATF</value>
+      <webElementGuid>fa7a710b-7530-45bf-9627-6b9828fbe4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9229ff1b-859c-4d1a-9847-32f78f60440b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>e7901b99-b133-45ca-8d30-9ce26ba77d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DocGrid&quot;)/tbody[1]/tr[2]/td[2]/div[@class=&quot;GOBodyMid&quot;]/div[@class=&quot;GOPageOne&quot;]/table[@class=&quot;GOSection&quot;]/tbody[1]/tr[@class=&quot;GODataRow&quot;]/td[@class=&quot;GOClassReadOnly GOAlignCenter GOIcon GOCell GOIconCenter GOEmpty HideCol0ATF&quot;]</value>
+      <webElementGuid>4daff724-0801-40c7-aaa6-8bef295e97dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DocGrid']/tbody/tr[2]/td[2]/div/div/table/tbody/tr[4]/td[4]</value>
+      <webElementGuid>6b7fd999-a312-4dba-987e-791786ad8644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D.P. remark'])[1]/following::td[1]</value>
+      <webElementGuid>7dacbc59-8b6f-4c0f-a73b-490b0f4f13ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment letter of structural/consulting engineer'])[1]/following::td[7]</value>
+      <webElementGuid>32a5260c-50f3-4603-b97e-48993605bd90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RL remark'])[1]/preceding::td[11]</value>
+      <webElementGuid>1b1c9e46-f820-42f2-af4e-5b156125df48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found'])[1]/preceding::td[15]</value>
+      <webElementGuid>df526ca1-1bdb-4d1d-8735-d234d0a4c830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[4]</value>
+      <webElementGuid>0c4ddf50-54d3-46a1-8372-e3af5e9e86f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>f409f818-7d28-43b6-a0ce-3c55a769718f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

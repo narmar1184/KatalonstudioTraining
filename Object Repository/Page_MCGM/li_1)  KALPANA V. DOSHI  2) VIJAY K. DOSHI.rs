@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1)  KALPANA V. DOSHI  2) VIJAY K. DOSHI</name>
+   <tag></tag>
+   <elementGuidId>0253636d-a6d9-4095-b4bd-d613a68e2f86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cboConsultant_chosen']/div/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4db63f8d-d995-4c38-9eec-5b2a5facda6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result result-selected</value>
+      <webElementGuid>763eb87c-9022-473e-bfe0-65cf0440bea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>1d995816-05e7-4f03-b6e6-3ffc58e595b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1)  KALPANA V. DOSHI  2) VIJAY K. DOSHI</value>
+      <webElementGuid>a50e7ac9-6b86-4d39-ad00-33e90a37bea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboConsultant_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result result-selected&quot;]</value>
+      <webElementGuid>93c2ff53-8794-4df7-9f57-55ff341b75ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cboConsultant_chosen']/div/ul/li[4]</value>
+      <webElementGuid>95796cb3-8790-484c-9134-7c5425439b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shri. Jatin V. Daisaria partners of M/s. Skyline great hills.'])[2]/following::li[2]</value>
+      <webElementGuid>887af46d-96e8-4a0c-aa3c-6050fc651b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A + E Mumbai Shelters LLP'])[2]/preceding::li[9]</value>
+      <webElementGuid>b1cf5a3e-2693-4400-9d66-ac4642f842d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A B BUILDER AND DEVELOPERS PRIVATE LIMITED'])[2]/preceding::li[10]</value>
+      <webElementGuid>b9ad41a8-e8aa-4d80-b057-994dcb68a3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[4]</value>
+      <webElementGuid>924c599a-7a2b-4858-a050-1bc36c0166b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '1)  KALPANA V. DOSHI  2) VIJAY K. DOSHI' or . = '1)  KALPANA V. DOSHI  2) VIJAY K. DOSHI')]</value>
+      <webElementGuid>d5c4552a-ef78-4097-b889-d054b50d85be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

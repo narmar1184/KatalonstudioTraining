@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectCOLABAFORT</name>
+   <tag></tag>
+   <elementGuidId>91e02e9b-4705-4a5f-bf3b-3fa73bae9bfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlVillageNm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ddlVillageNm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>422ed1ad-99f8-4eac-bf4a-3e3d6dd0a0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ddlVillageNm</value>
+      <webElementGuid>95cb91d3-bfb8-4dc1-9e06-ee40ee47bbbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ddlVillageNm\',\'\')', 0)</value>
+      <webElementGuid>969a7f6c-73d2-43e8-86d7-b35805e56a7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ddlVillageNm</value>
+      <webElementGuid>d8ff6f06-8fa1-41fd-9439-5465b40383c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>9e13a880-aa78-49e2-ba24-89ef24560500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Select
+	COLABA
+	FORT
+
+</value>
+      <webElementGuid>feb1a257-ca4b-4857-bff7-40b0b1cc417c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlVillageNm&quot;)</value>
+      <webElementGuid>2f07e088-f855-45bd-a673-269d432dff4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ddlVillageNm']</value>
+      <webElementGuid>74ea7eb1-e08e-4d59-8fa1-24238520d6d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divvillage']/select</value>
+      <webElementGuid>b2f87feb-e08e-4881-abfa-ed5b302a3576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Village(Village Name-CTS &amp; Divison-CS)'])[1]/following::select[1]</value>
+      <webElementGuid>6395cd32-5a57-46ee-be69-390c32682876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>aef7ed97-5f29-4a69-b574-db8cdda1d882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ddlVillageNm' and @id = 'ddlVillageNm' and (text() = '
+	Select
+	COLABA
+	FORT
+
+' or . = '
+	Select
+	COLABA
+	FORT
+
+')]</value>
+      <webElementGuid>d88d1f1f-ca85-4931-8a08-587696b4c657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
